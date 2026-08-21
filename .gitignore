@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Source repos (PerseusDL, First1KGreek, Heraclitus, LSJ) are cloned at build time
+_pg/
+_f1k/
+_heraclitus/
+_lsj/
+
+# Corpora are built on demand by the scripts; never commit the large data.
+scripts/text/
+scripts/chroma/
+
+.env
