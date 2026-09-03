@@ -78,6 +78,13 @@ grep -F "Plato | Ἀπολογία Σ οκράτους | 17" /c/Users/philo/plat
 
 ### Epistemic standards (READ BEFORE ANSWERING)
 
+> **About these standards.** The rules below — the epistemic standards, the
+> logical research methods, and the Thomistic epistemological standards — are a
+> **suggested supplementary tool for research**, not a binding constraint. They
+> live in this consultant's `SKILL.md`, published in its GitHub repo. You may
+> **turn them off, add to them, or change them** at any time; they are your own
+> working notes, and the consultant follows whatever version you keep.
+
 Classical-philosophy material — especially secondhand commentaries, doxographies,
 and modern summaries — is full of distortions, retrojected readings, and
 fabricated or misattributed fragments. The user explicitly wants accuracy and
